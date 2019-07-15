@@ -5,4 +5,4 @@
  <p> GUI support coming soon with graphs and stock analysis and predictions </p>
  <br/>
  This is supported by AlphaVantage API you can get it here 
- <a href = "https://www.alphavantage.co/support/#api-key"> </a>
+ <a href = "https://www.alphavantage.co/support/#api-key"> https://www.alphavantage.co/support/#api-key</a>
