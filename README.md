@@ -7,6 +7,8 @@
  This is supported by AlphaVantage API you can get it here 
  <a href = "https://www.alphavantage.co/support/#api-key"> https://www.alphavantage.co/support/#api-key</a>
 
-Sample Images
+<p>Sample Images</p>
+<div>
 ![alt text](https://raw.githubusercontent.com/rohanreddych/realtime-forex-rates/master/pics/pic1.png)
 ![alt text](https://raw.githubusercontent.com/rohanreddych/realtime-forex-rates/master/pics/pic2.png)
+</div>
