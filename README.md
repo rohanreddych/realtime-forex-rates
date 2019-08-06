@@ -12,3 +12,4 @@
 ![alt text](https://raw.githubusercontent.com/rohanreddych/realtime-forex-rates/master/pics/pic1.png)
 ![alt text](https://raw.githubusercontent.com/rohanreddych/realtime-forex-rates/master/pics/pic2.png)
 
+<p><b>NOTE:: THERE MAY BE SOME ERRORS WHILE EXECUTION, BECAUSE I STOPPED GIVING A FUCK ABOUT THIS DUMB ASS PROJECT</b></p>
