@@ -1,6 +1,6 @@
 import tkinter as tk 
 from tkinter import ttk
-import forex
+import forex2
 
 def get_list():
     a= pd.read_csv("list.csv")
