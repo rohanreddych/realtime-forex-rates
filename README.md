@@ -1,4 +1,6 @@
 # realtime-forex-rates
+<p><b>NOTE:: THERE MAY BE SOME ERRORS WHILE EXECUTION, BECAUSE I STOPPED THIS PROJECT,BUT IT WORKS FINE IN THEORY</b></p>
+
 <h1> Forex Rates and Stock Prices </h1>
 <p> This script gives real time forex rates and stock prices. You can also view historical stock prices upto 20 years </p>
 <br/>
@@ -12,4 +14,3 @@
 ![alt text](https://raw.githubusercontent.com/rohanreddych/realtime-forex-rates/master/pics/pic1.png)
 ![alt text](https://raw.githubusercontent.com/rohanreddych/realtime-forex-rates/master/pics/pic2.png)
 
-<p><b>NOTE:: THERE MAY BE SOME ERRORS WHILE EXECUTION, BECAUSE I STOPPED THIS PROJECT,BUT IT WORKS FINE IN THEORY</b></p>
