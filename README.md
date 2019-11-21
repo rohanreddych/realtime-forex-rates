@@ -1,5 +1,5 @@
 # realtime-forex-rates
-<p><b>NOTE:: THERE MAY BE SOME ERRORS WHILE EXECUTION, BECAUSE I STOPPED THIS PROJECT,BUT IT WORKS FINE IN THEORY</b></p>
+<p><b>If any errors pop please make a PR</b></p>
 
 <h1> Forex Rates and Stock Prices </h1>
 <p> This script gives real time forex rates and stock prices. You can also view historical stock prices upto 20 years </p>
